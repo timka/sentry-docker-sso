@@ -1,6 +1,7 @@
 # sentry-docker-sso
 
-sentry docker image with single-sign-on via [sentry-auth-github](https://github.com/getsentry/sentry-auth-github)
+
+Sentry Docker image with single-sign-on via [sentry-auth-github](https://github.com/getsentry/sentry-auth-github)
 
 ## Configure
 
